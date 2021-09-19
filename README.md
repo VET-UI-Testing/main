@@ -83,7 +83,7 @@ If you want to record screenshots during testing using [TOLLER's experiment fram
 
 ### Test environment
 
-Please see [this repo](https://github.com/TOLLER-Android/main) for the emulator image and configurations.
+Please see [here](https://github.com/TOLLER-Android/main/tree/main/emulator) for the emulator image and configurations.
 
 ### Misc scripts
 

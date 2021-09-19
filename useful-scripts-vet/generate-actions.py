@@ -3,7 +3,7 @@ import pickle
 import sys
 import json
 
-ct_max_top_regions = 3
+ct_max_top_regions = int(os.environ.get('CT_REGIONS', 3))
 INPUT_DIR_NAME_TRACES = 'processed_traces'
 INPUT_DIR_NAME_PARTITION = 'detect_partition'
 INPUT_DIR_NAME_TRAPPED = 'detect_trapped'
