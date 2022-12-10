@@ -73,7 +73,7 @@ Please see [this repo](https://github.com/TOLLER-Android/main) for TOLLER's on-d
 
 ### TOLLER's on-computer test recorder
 
-Available [here](https://github.com/VET-UI-Testing/test-recorder).
+Available [here](https://github.com/VET-UI-Testing/test-recorder). If you want to record traces during testing using [TOLLER's experiment framework](https://github.com/TOLLER-Android/main), place this repo in the `test-recorder` folder in the root directory of TOLLER's repo.
 
 ### Modified version of minicap
 
