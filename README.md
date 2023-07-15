@@ -61,7 +61,7 @@ Additionally, `regions.tar.bz2` contains JSON files recording VET's identified e
 
 ### Screenshots captured during trace recording
 
-See [here](https://drive.google.com/drive/folders/15_BYCWjHw2vlNG8C35EzuGi9uYZverlc) for all screenshots. Each gzipped tarball corresponds to one trace and contains multiple JPEG files with names in the format of `{TIMESTAMP}.jpg`, corresponding to the UI hierarchy in `{TIMESTAMP}.json`.
+See [here](https://github.com/VET-UI-Testing/main/releases/tag/screenshots) for all screenshots. Each gzipped tarball corresponds to one trace and contains multiple JPEG files with names in the format of `{TIMESTAMP}.jpg`, corresponding to the UI hierarchy in `{TIMESTAMP}.json`.
 
 ### Manual analysis data
 
@@ -91,7 +91,7 @@ Please see [useful-scripts-vet/](useful-scripts-vet/). If you want to use these 
 
 ### Installation packages of apps involved in experiments
 
-See [here](https://drive.google.com/drive/folders/1ivz1vzDPBwiIZ0OfP5ExBpQ1QnV1x_vg) for all APKs.
+See [here](https://github.com/VET-UI-Testing/main/releases/download/apps/Apps-VET.zip) for all APKs.
 
 ## Contact
 
